@@ -25,6 +25,7 @@ import Updates from 'Routes/Updates/Updates'
 import Update from 'Routes/Updates/Update'
 import { ReleaseNotesProviderWrapper } from 'Providers/ReleaseNotesProvider'
 import Telemetry from 'Routes/Onboarding/Telemetry'
+import './i18n/config'
 
 const breakpoints = {
   xs: '46.875rem', //750px
